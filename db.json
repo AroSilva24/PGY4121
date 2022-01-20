@@ -1,11 +1,18 @@
 {
-  "username": "aroldo silva"
-  "userid": "aro.silva"
-  "password": "1212"
-},
-
-{
-  "username": "camilo basualto"
-  "userid": "ca.basualto"
-  "password": "3434"
-},
+  "student": [
+    {
+      "id": 1,
+      "name": "Aroldo Silva",
+      "email": "aro.silva@duocuc.cl",
+      "username": "aro.silva",
+      "password": "1234
+    },
+    {
+      "id": 2,
+      "name": "Camilo Basualto",
+      "email": "ca.basualto@duocuc.cl",
+      "username": "ca.basualto",
+      "password": "4567"
+    }
+  ]
+}
